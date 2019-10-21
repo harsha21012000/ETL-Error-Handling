@@ -1,6 +1,0 @@
-where[Column 6] <> ' '
-
-  select * 
-   from [DSTRAINING].[dbo].[RAW_VehicleService_20190818]
-   where ISNUMERIC([2015]) = 0
-   and [2015] <> ''
